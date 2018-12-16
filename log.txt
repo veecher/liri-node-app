@@ -1,0 +1,65 @@
+artist: John Williams
+song title: Duel of the Fates
+link: https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw
+album: Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)
+
+
+
+
+
+
+
+
+
+
+
+
+artist: John Williams
+song title: Duel of the Fates
+link: https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw
+album: Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)
+
+
+title: Star Wars: Episode IV - A New Hope
+release year: 1977
+imdb rating: 8.6
+rotten tomato score: 93%
+produced in: USA
+language: English
+plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+
+
+artist: John Williams
+song title: Duel of the Fates
+link: https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw
+album: Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)
+
+
+title: Star Wars: Episode IV - A New Hope
+release year: 1977
+imdb rating: 8.6
+rotten tomato score: 93%
+produced in: USA
+language: English
+plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+
+
+artist: John Williams
+song title: Duel of the Fates
+link: https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw
+album: Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)
+
+
+artist: Metallica
+song title: Enter Sandman
+link: https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp
+album: Metallica
+
+
+venue: The Forum
+city: Los Angeles, CA
+date: 2019-01-16T19:00:00
+
+

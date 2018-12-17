@@ -63,3 +63,147 @@ city: Los Angeles, CA
 date: 2019-01-16T19:00:00
 
 
+venue: The Forum
+city: Los Angeles, CA
+date: 2019-01-16T19:00:00
+
+
+artist: Metallica
+song title: Enter Sandman
+link: https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp
+album: Metallica
+
+
+venue: The Forum
+city: Los Angeles, CA
+date: concertDate 11, + ":" + 36, am, + ", " + 0, yyyy
+
+
+artist: Metallica
+song title: Enter Sandman
+link: https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp
+album: Metallica
+
+
+venue: The Forum
+city: Los Angeles, CA
+date: 7, + ":" + 0, pm, + ", " + 3, yyyy
+
+
+artist: Metallica
+song title: Enter Sandman
+link: https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp
+album: Metallica
+
+
+venue: The Forum
+city: Los Angeles, CA
+date: 12, 6, pm, 0, yyyy
+
+
+artist: Metallica
+song title: Enter Sandman
+link: https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp
+album: Metallica
+
+
+venue: The Forum
+city: Los Angeles, CA
+date: 12:07 pm, 0, yyyy
+
+
+artist: Metallica
+song title: Enter Sandman
+link: https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp
+album: Metallica
+
+
+venue: The Forum
+city: Los Angeles, CA
+date: 7:00 pm, 3, yyyy
+
+
+artist: Metallica
+song title: Enter Sandman
+link: https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp
+album: Metallica
+
+
+venue: The Forum
+city: Los Angeles, CA
+date: 7:00 pm, January 3, yyyy
+
+
+artist: Metallica
+song title: Enter Sandman
+link: https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp
+album: Metallica
+
+
+venue: The Forum
+city: Los Angeles, CA
+date: 7:00 pm, January 3, yyyy
+
+
+artist: Metallica
+song title: Enter Sandman
+link: https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp
+album: Metallica
+
+
+venue: The Forum
+city: Los Angeles, CA
+date: 7:00 pm, January 3, yyyy
+
+
+artist: Metallica
+song title: Enter Sandman
+link: https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp
+album: Metallica
+
+
+title: Star Wars: Episode IV - A New Hope
+release year: 1977
+imdb rating: 8.6
+rotten tomato score: 93%
+produced in: USA
+language: English
+plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+
+
+artist: John Williams
+song title: Duel of the Fates
+link: https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw
+album: Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)
+
+
+venue: The Forum
+city: Los Angeles, CA
+date: 7:00 pm, January 3, yyyy
+
+
+artist: Metallica
+song title: Enter Sandman
+link: https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp
+album: Metallica
+
+
+artist: Spirit
+song title: Victim Of Society
+link: https://open.spotify.com/track/2M1bbxOU53akuPruJpIwFv
+album: The Mercury Years
+
+
+artist: Spirit
+song title: Victim Of Society
+link: https://open.spotify.com/track/2M1bbxOU53akuPruJpIwFv
+album: The Mercury Years
+
+
+artist: System Of A Down
+song title: Stealing Society - Explicit Album Version
+link: https://open.spotify.com/track/0ELxqqeeisigIJhN6dsNHI
+album: Hypnotize
+
+

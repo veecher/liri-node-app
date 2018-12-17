@@ -7,8 +7,24 @@ var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 var command = process.argv[2];
 
-// do-what-it-says
-//stop spotify on every search
+if (command === "spotify-this-song") {
+    spotifySearch();
+}
+else if (command === "concert-this") {
+    concertSearch();
+}
+else if (command === "movie-this") {
+    movieSearch();
+}
+else if (command === "do-what-it-says") {
+    var searchArr = require("./random.txt").split(",");
+    var searchType = searchArr[0];
+    var searchTerm = searchArr[1].join(" ");
+
+    if (searchType === "spotify-this-song") {
+        spotifySearch(searchTerm)
+    };
+};
 
 function spotifySearch() {
     var name = process.argv.slice(3).join(" ");
@@ -41,7 +57,7 @@ function concertSearch() {
     request(URL, function (err, response, body) {
         var concertData = JSON.parse(body);
         var concertDate = concertData[0].datetime;
-        var date = moment(concertDate).format('h:mm a, MMMM d, yyyy');
+        var date = moment(concertDate).format('h:mm a, MMMM d, YYYY');
         var logData = [
             ("venue: " + concertData[0].venue.name),
             ("city: " + concertData[0].venue.city + ", " + concertData[0].venue.region),
@@ -74,26 +90,4 @@ function movieSearch() {
             console.log(logData);
         });
     });
-};
-
-if (command === "spotify-this-song"); {
-    spotifySearch();
-};
-
-if (command === "concert-this") {
-    concertSearch()
-};
-
-if (command === "movie-this") {
-    movieSearch();
-};
-
-if (command === "do-what-it-says") {
-    var searchArr = require("./random.txt").split(",");
-    var searchType = searchArr[0];
-    var searchTerm = searchArr[1].join(" ");
-
-    if (searchType === "spotify-this-song") {
-        spotifySearch(searchTerm)
-    };
 };
